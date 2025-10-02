@@ -16,10 +16,11 @@ Bem-vindo ao Sign-App\! Este documento irá guiá-lo através do processo de con
 
 ### Sumário
 
-  * [Pré-requisitos](https://www.google.com/search?q=%23%EF%B8%8F-pr%C3%A9-requisitos)
-  * [Como Rodar o Projeto](https://www.google.com/search?q=%23%EF%B8%8F-como-rodar-o-projeto)
-  * [O que o Script de Automação Faz?](https://www.google.com/search?q=%23-o-que-o-script-de-automa%C3%A7%C3%A3o-faz)
-  * [Solução de Problemas (Troubleshooting)](https://www.google.com/search?q=%23-solu%C3%A7%C3%A3o-de-problemas-troubleshooting)
+* [Pré-requisitos](#pré-requisitos)
+* [Como Rodar o Projeto](#como-rodar-o-projeto)
+* [O que o Script de Automação Faz?](#dentro-dos-entrypoints)
+* [Solução de Problemas (Troubleshooting)](#solução-de-problemas-troubleshooting)
+
 
 ### Pré-requisitos
 
@@ -35,7 +36,7 @@ Antes de começar, certifique-se de que você tem as seguintes ferramentas insta
 
 
 
-### ▶️ Como Rodar o Projeto
+### Como Rodar o Projeto
 
 Com o ambiente devidamente configurado,
 
